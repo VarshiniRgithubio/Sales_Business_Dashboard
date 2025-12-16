@@ -15,7 +15,7 @@ This is a **Power BI dashboard** visualizing sales and business metrics with int
 
 ## Screenshot
 <img width="1671" height="777" alt="image" src="https://github.com/user-attachments/assets/5662a1e2-1ece-4703-bfd4-1409a33e537b" />
-
+<img width="1526" height="796" alt="image" src="https://github.com/user-attachments/assets/d082f69e-e030-4530-97a1-02f897095ab0" />
 
 ## Tools Used
 - Power BI Desktop

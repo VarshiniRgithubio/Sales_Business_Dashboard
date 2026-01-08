@@ -30,4 +30,4 @@ This is a **Power BI dashboard** visualizing sales and business metrics with int
 
 ## Notes
 - Forecasting uses historical sales data to predict future trends.
-- Dashboard is interactive and allows filtering by year, month, segment, and region.
+- Dashboard is interactive and allows filtering by year, month, segment, and region

@@ -1,6 +1,6 @@
 # Sales and Business Dashboard
 
-This is a **Power BI dashboard** visualizing sales and business metrics with interactive KPIs, charts, maps, and forecasting.
+This is a **Power BI dashboard** visualizing sales and business metrics with interactive KPIs, charts, maps, and forecasting
 
 ## Features
 - **Key Metrics:** Total Sales, Profit, Average Delivery
